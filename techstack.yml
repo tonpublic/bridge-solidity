@@ -1,0 +1,149 @@
+repo_name: tonpublic/bridge-solidity
+report_id: 63f8e18587ed8521091b1851432df272
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-16T22:23:24+00:00'
+requested_by: tolya-yanot
+provider: github
+branch: master
+detected_tools_count: 11
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tonpublic/bridge-solidity
+  detection_source: Repo Metadata
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/tonpublic/bridge-solidity/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: EmelyanenkoK
+  last_updated_on: 2021-04-18 14:01:25.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/tonpublic/bridge-solidity/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: EmelyanenkoK
+  last_updated_on: 2021-04-18 14:01:25.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tonpublic/bridge-solidity
+  detection_source: Repo Metadata
+- name: TRUFFLE
+  description: A development environment for Ethereum
+  website_url: https://www.trufflesuite.com/truffle
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/8417/gMnhPuhq_400x400.jpg
+  detection_source_url: https://github.com/tonpublic/bridge-solidity/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: EmelyanenkoK
+  last_updated_on: 2021-04-18 14:01:25.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tonpublic/bridge-solidity/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: EmelyanenkoK
+  last_updated_on: 2021-04-18 14:01:25.000000000 Z
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/tonpublic/bridge-solidity
+  detection_source: Repo Metadata
+- name: web3
+  website_url: https://github.com/ethereum/web3.js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source_url: https://github.com/tonpublic/bridge-solidity/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tolya-yanot
+  last_updated_on: 2021-07-11 13:41:27.000000000 Z
+- name: chai-as-promised
+  description: Extends Chai with assertions about promises
+  package_url: https://www.npmjs.com/chai-as-promised
+  version: 7.1.1
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15970/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/tonpublic/bridge-solidity/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tolya-yanot
+  last_updated_on: 2021-07-11 13:41:27.000000000 Z
+- name: chai-shallow-deep-equal
+  description: Shallow deep equal assertion for chai
+  package_url: https://www.npmjs.com/chai-shallow-deep-equal
+  version: 1.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18581/default_6b6f42694ad6633eb4618a4ef4c95ae482f42fa6.png
+  detection_source_url: https://github.com/tonpublic/bridge-solidity/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tolya-yanot
+  last_updated_on: 2021-07-11 13:41:27.000000000 Z
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 1.3.5
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/tonpublic/bridge-solidity/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: tolya-yanot
+  last_updated_on: 2021-07-11 13:41:27.000000000 Z
+  vulnerabilities:
+  - name: Insecure Credential Storage in web3
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-27v7-qhfv-rqq8
+    detected_date: Aug 22
+    severity: low
+    first_patched:
